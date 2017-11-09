@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/admiral-fairbanks-ExtolInc/lmp-api/issues"
   },
-  "homepage": "https://github.com/admiral-fairbanks-ExtolInc/lmp-api#readme"
+  "homepage": "https://github.com/admiral-fairbanks-ExtolInc/lmp-api#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
